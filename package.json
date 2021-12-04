@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.12.0-alpha.1"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "wcc-controle-vacinacao-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "andrea",
+  "license": "ISC",
+  "description": ""
+}
